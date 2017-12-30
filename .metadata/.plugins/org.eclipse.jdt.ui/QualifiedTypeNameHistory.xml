@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="be.garageEnLigne.classeMetier.Accessoire"/>
+<fullyQualifiedTypeName name="garageEnLigne.DAO.DAO"/>
+<fullyQualifiedTypeName name="java.time.LocalDate"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="be.garageEnLigne.classeMetier.BeanClient"/>
+<fullyQualifiedTypeName name="be.garageEnLigne.classeMetier.ClientCourant"/>
+<fullyQualifiedTypeName name="com.sun.security.ntlm.Client"/>
+<fullyQualifiedTypeName name="be.garageEnLigne.classeMetier.Client"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="be.garageEnLigne.DAO.VoitureDAO"/>
+<fullyQualifiedTypeName name="be.garageEnLigne.classeMetier.listVoiture"/>
+<fullyQualifiedTypeName name="javax.servlet.ServletConfig"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="be.garageEnLigne.classeMetier.Voiture"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="be.garageEnLigne.classeMetier.LigneDetail"/>
+<fullyQualifiedTypeName name="be.garageEnLigne.classeMetier.Panier"/>
+</qualifiedTypeNameHistroy>

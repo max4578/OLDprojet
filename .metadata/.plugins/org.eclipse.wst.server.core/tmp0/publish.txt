@@ -1,0 +1,3 @@
+#GlassFish 3
+#Thu Jan 12 23:46:48 CET 2017
+org.eclipse.jst.jee.server\:GarageEnLigne=C\:\\GFServer\\glassfish4\\glassfish\\domains\\domain1\\eclipseApps\\GarageEnLigne
